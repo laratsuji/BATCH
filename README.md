@@ -84,9 +84,6 @@ ECHO Iniciando o aplicativo...
 START C:\Programas\MeuApp.exe
 ```
 
-### Conclusão
-
-Este **README.md** fornece uma visão geral completa sobre os principais comandos Batch, suas explicações e exemplos É uma excelente referência para quem deseja aprender ou criar scripts Batch eficientes. 
 
 # Comandos Utilizados
 - **MKDIR**: O comando `mkdir` é utilizado para **criar um novo diretório (pasta)** no sistema de arquivos.
@@ -94,3 +91,7 @@ Este **README.md** fornece uma visão geral completa sobre os principais comando
 - **ECHO**: O comando `echo` é utilizado para **exibir uma mensagem ou o conteúdo de uma variável** no terminal.
 - **DEL**: O comando `del` é usado para **excluir arquivos** no sistema de arquivos.
 - **RMDIR**: O comando `rmdir` é utilizado para **remover um diretório vazio** no sistema de arquivos.
+
+  ### Conclusão
+
+Este **README.md** fornece uma visão geral completa sobre os principais comandos Batch, suas explicações e exemplos É uma excelente referência para quem deseja aprender ou criar scripts Batch eficientes. 
